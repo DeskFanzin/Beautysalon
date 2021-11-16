@@ -1,0 +1,2 @@
+# Beautysalon
+Projeto da RocketSeat.
